@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F78C00FA-14E0-C05C-E892-735EADA1654A}") = "ChangeVertices", "Assembly-CSharp.csproj", "{F1230284-4D5B-57C0-52C6-CE37F74A3AD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1230284-4D5B-57C0-52C6-CE37F74A3AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1230284-4D5B-57C0-52C6-CE37F74A3AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1230284-4D5B-57C0-52C6-CE37F74A3AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1230284-4D5B-57C0-52C6-CE37F74A3AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
